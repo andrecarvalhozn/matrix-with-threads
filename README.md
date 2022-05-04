@@ -1,5 +1,5 @@
 # Matriz com Threads
-Repositório contendo programa que soma de valores de uma matriz com threads.
+Repositório contendo programa que soma os valores de uma matriz com threads.
 
 Aluno: André Carvalho
 

@@ -20,21 +20,21 @@ $ cd matrix-with-threads
 
 ## Colocando o programa para funcionar:
 
-### Compilando:
+### Compilar:
 Para compilar o código, digite o comando abaixo:
 
 ```bash
 $ make
 ```
 
-### Rodando:
+### Rodar:
 Para rodar o código, digite o comando abaixo:
 
 ```bash
 $ make run
 ```
 
-### Apagando:
+### Apagar:
 Para apagar o executável gerado na compilação, digite o comando abaixo:
 
 ```bash
